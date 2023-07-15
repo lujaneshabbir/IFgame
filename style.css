@@ -1,0 +1,9 @@
+.container {
+    display: grid;
+    grid-template-columns: 15% 70% 15%;
+}
+
+.new-item {
+    border: solid black 1px;
+    padding: 15px;
+}
